@@ -1,8 +1,76 @@
 # REYES-UCB-mentee
-<html>
-  <body>
-    <h2>Python4Physics Summer Program Report – REYES 2025 </h2>h2>
-       <h2>by Jharna Saxena </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Python4Physics Summer Program Report – REYES 2025</title>
+
+  <style>
+    body {
+      background-color: #f4f6f8;
+      font-family: "Georgia", serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      width: 80%;
+      margin: 40px auto;
+      background-color: #ffffff;
+      padding: 40px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h1, h2, h3 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    h1 {
+      margin-bottom: 5px;
+    }
+
+    h2 {
+      margin-top: 0;
+      font-weight: normal;
+    }
+
+    h3 {
+      text-align: left;
+      margin-top: 40px;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    p {
+      text-align: justify;
+      color: #333;
+      margin-bottom: 16px;
+    }
+
+    .section {
+      margin-top: 30px;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #1a5276;
+    }
+
+    hr {
+      margin: 30px 0;
+    }
+
+    em {
+      color: #444;
+    }
+  </style>
+</head>
+
+ <body>
+    <h2>Python4Physics Summer Program Report – REYES 2025 </h2>
+       <h2> Jharna Saxena </h2>
        <p><i>I. Introduction<br><br>
 I discovered the REYES program in my university’s summer school PDF for “Internships and Mentorships Program” while searching for internship or certification courses beyond my usual boring Coursework and Coursera, hoping to make my summer productive. The program transformed my summer by providing a structured routine for study and fun, helping me grasp concepts I’d struggled with for years and even till now was struggling. In high school, kinematics I couldn’t solve a single ques without rereading it and I found myself stuck on the same questions but REYES clarified these topics I also learned about  subjects like LIGO for first time and I’ve loved astrophysics since childhood but never got to learn it like real physicists do and even though I’m a CS major now in fresher year I’ve always found it fascinating and while I’m not great at math the calculus stats and probability classes helped me prepare for my sophomore year and taught me how to approach problems better<br>
 With my Python background from CS50P and high school, I enjoyed the hands projects (though I wasn’t able to solve 2 projects day 5-6 and day 7 I am sorry for that) and P4P not only enhanced my practical coding skills but also revealed gaps in my foundational understanding. Guest lectures offered valuable information guidance and I learned to write better code comments, overcoming my perfectionist habit of rewriting everything even variable definations etc .<br>
